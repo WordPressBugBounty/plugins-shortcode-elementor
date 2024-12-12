@@ -6,8 +6,8 @@ Author URI: https://rstheme.com/
 Contributors: rstheme2017,rubrash
 Tags: shortcode for wordpress,wordpress shortcode,shortcode in wordpress,Shortcodes for Elementor,Shortcodes plugin
 Requires at least: 5.5
-Tested up to: 6.7
-Stable tag: 1.0.4
+Tested up to: 6.7.1
+Stable tag: 1.0.5
 Requires PHP: 7.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -92,6 +92,13 @@ It's really easy  to install Shortcodes for Elementor plugin but before installi
 
 
 == Changelog ==
+
+= 1.0.5 - 10-12-2024 =
+
+* Making it compatible with the latest version of WordPress.
+* Bug Fixes
+* Security Fix: Restrict access to private, draft, and password-protected posts in the 'SHORTCODE_ELEMENTOR' shortcode.
+
 
 = 1.0.4 - 14-11-2024 =
 
