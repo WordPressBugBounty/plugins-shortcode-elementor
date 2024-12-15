@@ -74,8 +74,12 @@ function rselements_render_shortcode( $atts ) {
     if ( 'rs_elements' !== $post->post_type ) {
         return esc_html__( 'Invalid content type.', 'shortcode-elementor' );
     }
+    // Add a permission check to ensure the current user can view this post
+    if ( ! current_user_can( 'read_post', $post_id ) ) {
+        return esc_html__( 'You do not have permission to access this content.', 'shortcode-elementor' );
+    }
 
     // Return the content
-    return apply_filters( 'the_content', $post->post_content );
+    return apply_filters( 'the_content', wp_kses_post( $post->post_content ) );
 }
 add_shortcode( 'SHORTCODE_ELEMENTOR', 'rselements_render_shortcode' );

@@ -7,7 +7,7 @@ Contributors: rstheme2017,rubrash
 Tags: shortcode for wordpress,wordpress shortcode,shortcode in wordpress,Shortcodes for Elementor,Shortcodes plugin
 Requires at least: 5.5
 Tested up to: 6.7.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires PHP: 7.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -83,15 +83,19 @@ It's really easy  to install Shortcodes for Elementor plugin but before installi
 2.  Search for `Shortcodes for Elementor`.
 3.  Install and activate the plugin, that's it.
 
-
 = Manual Installation =
 1. Download RS <a href="#"">Elementor Shortcode</a>.
 2. Extract the elementor-shortcode.zip file. You’ll get plugin files inside rs-shortcode-lite directory.
 3. Upload the plugin files to the /wp-content/plugins/elementor-shortcode directory.
 4. Activate the plugin through the ‘Plugins’ screen in WordPress.
 
-
 == Changelog ==
+= 1.0.6 - 10-12-2024 =
+
+* Making it compatible with the latest version of WordPress.
+* Bug Fixes
+* Sanitized Post Content
+* Added Capability Check
 
 = 1.0.5 - 10-12-2024 =
 
