@@ -5,9 +5,9 @@ Author: RSTheme
 Author URI: https://rstheme.com/
 Contributors: rstheme2017,rubrash
 Tags: shortcode for wordpress,wordpress shortcode,shortcode in wordpress,Shortcodes for Elementor,Shortcodes plugin
-Requires at least: 5.5
-Tested up to: 6.7.1
-Stable tag: 1.0.6
+Requires at least: 6.3
+Tested up to: 6.8
+Stable tag: 1.0.7
 Requires PHP: 7.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,10 @@ You can check also our <a href="https://rstheme.com/products/wordpress/plugins/e
 
 **[Ultimate Team Showcase – Advanced WordPress Team Members Plugin](https://wordpress.org/plugins/ultimate-team-showcase/)** - The ultimate team member WordPress plugin for showing team members profile in grid, slider, Isotope, and lightbox layouts easily using by shortcodes.
 
+**[Ultimate Tag Cloud Elementor Addon](https://wordpress.org/plugins/ultimate-tag-cloud/)** - Ultimate Tag Cloud enhances tag display with dynamic loading, custom addons, Elementor integration, and stylish layouts for better taxonomy
+
+**[Ultimate Redirect Manager](https://wordpress.org/plugins/ultimate-redirect-manager/)** - Ultimate Redirect Manager is the most advanced redirection tool for WordPress. This Redirect tool will redirect your website’s error links and URLs to the pages you select. 
+
 
 = Author =
 
@@ -44,8 +48,8 @@ Designed and Developed with ♥ by [__RSTheme__](https://rstheme.com/)
 
 == Requirements ==
 
-`WordPress version at least: 4.5` 
-`PHP version at least: 7.0`
+`WordPress version at least: 6.3` 
+`PHP version at least: 7.4`
 
 
 == Frequently Asked Questions ==
@@ -90,6 +94,12 @@ It's really easy  to install Shortcodes for Elementor plugin but before installi
 4. Activate the plugin through the ‘Plugins’ screen in WordPress.
 
 == Changelog ==
+
+= 1.0.7 - 26-08-2025 =
+
+* Making it compatible with the latest version of WordPress.
+* Bug Fixes
+
 = 1.0.6 - 10-12-2024 =
 
 * Making it compatible with the latest version of WordPress.

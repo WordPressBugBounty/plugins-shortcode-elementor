@@ -3,7 +3,7 @@
 /*plugin name: Shortcodes for Elementor
  * Plugin URI:  https://wordpress.org/plugins/shortcode-elementor/
  * Description: Insert your elementor pages and sections templates anywhere using shortcode
- * Version:     1.0.6
+ * Version:     1.0.7
  * Author:      RSTheme
  * Author URI:  https://rstheme.com/
  * Text Domain: shortcode-elementor
@@ -12,8 +12,8 @@
  * License: 	GPL v2 or later
  * License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path: /languages
- * Requires PHP: 7.0.0
- * Requires at least: 5.5
+ * Requires PHP: 7.4
+ * Requires at least: 6.3
  */
 
 define( 'RS_Elements__FILE__', __FILE__ );
