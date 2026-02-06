@@ -3,7 +3,7 @@
 /*plugin name: Shortcodes for Elementor
  * Plugin URI:  https://wordpress.org/plugins/shortcode-elementor/
  * Description: Insert your elementor pages and sections templates anywhere using shortcode
- * Version:     1.0.7
+ * Version:     1.0.8
  * Author:      RSTheme
  * Author URI:  https://rstheme.com/
  * Text Domain: shortcode-elementor

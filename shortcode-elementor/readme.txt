@@ -7,7 +7,7 @@ Contributors: rstheme2017,rubrash
 Tags: shortcode for wordpress,wordpress shortcode,shortcode in wordpress,Shortcodes for Elementor,Shortcodes plugin
 Requires at least: 6.3
 Tested up to: 6.8
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 Requires PHP: 7.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -18,6 +18,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 "Shortcodes for Elementor" Plugin empowers you to seamlessly integrate Elementor pages and section templates anywhere on your WordPress site using shortcodes. Effortlessly create and manage global elements that you can reuse throughout your Elementor designs. With this plugin, the power of Elementor extends further as you can now incorporate its dynamic content into any part of your website with ease. Whether it's showcasing a specific section, a custom layout, or a dynamic element, this tool streamlines your design process. Enhance your website's flexibility and efficiency by leveraging the versatility of Elementor combined with the convenience of shortcodes. Revolutionize your workflow and design possibilities with "Shortcodes for Elementor" today.
 
+How to install Shortcodes for Elementor Plugin
+[youtube http://youtube.com/watch?v=MLO7JEtRjsE]
+
+How to Use Shortcodes for Elementor Plugin
+[youtube https://youtu.be/IVYmzF5vI7o ]
 
 Use shortcode SHORTCODE_ELEMENTOR eg: [SHORTCODE_ELEMENTOR id=xxxxx]
 
@@ -94,6 +99,12 @@ It's really easy  to install Shortcodes for Elementor plugin but before installi
 4. Activate the plugin through the ‘Plugins’ screen in WordPress.
 
 == Changelog ==
+
+= 1.0.8 - 02-10-2025 =
+
+* Making it compatible with the latest version of WordPress.
+* Bug Fixes
+* Add Readme file
 
 = 1.0.7 - 26-08-2025 =
 
